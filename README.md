@@ -1,4 +1,4 @@
-# Lab-BancoDados-Azure
+# Lab-Azure-Resumo-Dados
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO 
 
 Com o avanço contínuo da transformação digital, entender os fundamentos da computação em nuvem é essencial para profissionais de tecnologia e empresas que desejam alcançar mais eficiência, flexibilidade e escalabilidade. Neste contexto, o Microsoft Azure surge como uma das plataformas de nuvem mais robustas do mercado, oferecendo diferentes modelos de serviço adaptáveis a diversas necessidades. Este artigo explora os principais conceitos abordados na certificação AZ-900 – Microsoft Azure Fundamentals, com foco nos modelos IaaS, PaaS e SaaS, além de apresentar um guia prático para configurar um banco de dados SQL no Azure.
